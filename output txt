@@ -1,0 +1,214 @@
+ 5 depot(s)  |  30 task(s) available
+
+==========================================================================
+  Optimal Task Selection per Depot
+==========================================================================
+
+  Depot #1  |  Budget:   60h  |  Used:   60h  |  Utilisation: 100.0%  |  Max Impact Score: 117
+  TaskID                                      Dur  Impact
+  ----------------------------------------  -----  ------
+  264e638f-1c7a-4d67-9f9c-53f3d1766d37          1h       5
+  4b6e22ee-b4ed-45a4-a6af-5294b0d69f37          1h       3
+  d6372f32-852b-46a9-8e8c-e730fecc3c22          5h       5
+  72a91abc-4ed7-492c-9e99-348e7437953b          5h       9
+  8a7ff5b1-335c-4a2f-96d8-09c4a362e781          6h      10
+  08000114-9506-463d-ba2e-3343ec4e2e89          6h       6
+  52635341-7c5f-475a-9839-4676f8fe5fd4          1h       5
+  9e08defa-7bb5-4a83-9e29-417165922894          6h       9
+  f92b0f39-35ec-47c3-a465-3e49c22185b6          2h       5
+  65c0d74a-82ef-4fcc-9d85-9b082bb85310          5h       7
+  18c655b2-380d-4295-8905-863f0de32c8f          2h       9
+  436e87a6-2b5b-42b9-9c35-deaa2c8ef54e          2h       3
+  0a823f1b-03c3-4722-af40-e17a7b9ee0ff          2h       5
+  0bf780cb-1099-4f61-99bf-dec95a7063b6          3h      10
+  871ddcf5-0bba-4233-bf12-c776c496e314          7h      10
+  1d893de7-fbba-4c77-927b-e3076fe805d5          1h       8
+  1743e1b5-9dfd-4506-9905-98c3e054aee1          5h       8
+
+  Depot #2  |  Budget:  135h  |  Used:  135h  |  Utilisation: 100.0%  |  Max Impact Score: 169
+  TaskID                                      Dur  Impact
+  ----------------------------------------  -----  ------
+  264e638f-1c7a-4d67-9f9c-53f3d1766d37          1h       5
+  73ce9dca-1536-4a7a-9f1e-c67083afad61          6h       2
+  4b6e22ee-b4ed-45a4-a6af-5294b0d69f37          1h       3
+  d6372f32-852b-46a9-8e8c-e730fecc3c22          5h       5
+  ec40b581-bdfc-43e0-a047-871fdafe8167          7h       3
+  fb1e3165-67c9-4e96-a5c3-2d20085d293b          6h       3
+  330065c0-3815-4e10-a18a-b93b117e30a8          5h       1
+  72a91abc-4ed7-492c-9e99-348e7437953b          5h       9
+  8a7ff5b1-335c-4a2f-96d8-09c4a362e781          6h      10
+  08000114-9506-463d-ba2e-3343ec4e2e89          6h       6
+  a1e0b8e6-1076-4a2f-b83b-5e6017900033          6h       1
+  52635341-7c5f-475a-9839-4676f8fe5fd4          1h       5
+  9e08defa-7bb5-4a83-9e29-417165922894          6h       9
+  f92b0f39-35ec-47c3-a465-3e49c22185b6          2h       5
+  65c0d74a-82ef-4fcc-9d85-9b082bb85310          5h       7
+  68ee2f8d-4145-4472-bce9-1d0968a8092a          1h       1
+  8a294532-c7ee-4e19-803d-f98b7e73e8bc          8h       7
+  18c655b2-380d-4295-8905-863f0de32c8f          2h       9
+  436e87a6-2b5b-42b9-9c35-deaa2c8ef54e          2h       3
+  0a823f1b-03c3-4722-af40-e17a7b9ee0ff          2h       5
+  0bf780cb-1099-4f61-99bf-dec95a7063b6          3h      10
+  e716fb11-1064-4db7-9d76-06d19f4f6f67          5h       5
+  60586e47-ab9c-407d-85ca-1215084f3f41          8h       8
+  08635e52-dad5-4b78-8ab1-e55db53c0c18          8h       5
+  871ddcf5-0bba-4233-bf12-c776c496e314          7h      10
+  1d893de7-fbba-4c77-927b-e3076fe805d5          1h       8
+  1743e1b5-9dfd-4506-9905-98c3e054aee1          5h       8
+  48851915-eaf5-48ec-a20c-5074d7050c5f          8h       8
+  7d81e6ca-8f03-4c4a-9ec0-701f820c5655          7h       8
+
+  Depot #3  |  Budget:  188h  |  Used:  142h  |  Utilisation:  75.5%  |  Max Impact Score: 170
+  TaskID                                      Dur  Impact
+  ----------------------------------------  -----  ------
+  264e638f-1c7a-4d67-9f9c-53f3d1766d37          1h       5
+  73ce9dca-1536-4a7a-9f1e-c67083afad61          6h       2
+  4b6e22ee-b4ed-45a4-a6af-5294b0d69f37          1h       3
+  d6372f32-852b-46a9-8e8c-e730fecc3c22          5h       5
+  ec40b581-bdfc-43e0-a047-871fdafe8167          7h       3
+  fb1e3165-67c9-4e96-a5c3-2d20085d293b          6h       3
+  330065c0-3815-4e10-a18a-b93b117e30a8          5h       1
+  72a91abc-4ed7-492c-9e99-348e7437953b          5h       9
+  8a7ff5b1-335c-4a2f-96d8-09c4a362e781          6h      10
+  08000114-9506-463d-ba2e-3343ec4e2e89          6h       6
+  a1e0b8e6-1076-4a2f-b83b-5e6017900033          6h       1
+  52635341-7c5f-475a-9839-4676f8fe5fd4          1h       5
+  9e08defa-7bb5-4a83-9e29-417165922894          6h       9
+  f92b0f39-35ec-47c3-a465-3e49c22185b6          2h       5
+  65c0d74a-82ef-4fcc-9d85-9b082bb85310          5h       7
+  68ee2f8d-4145-4472-bce9-1d0968a8092a          1h       1
+  8a294532-c7ee-4e19-803d-f98b7e73e8bc          8h       7
+  18c655b2-380d-4295-8905-863f0de32c8f          2h       9
+  436e87a6-2b5b-42b9-9c35-deaa2c8ef54e          2h       3
+  0a823f1b-03c3-4722-af40-e17a7b9ee0ff          2h       5
+  0bf780cb-1099-4f61-99bf-dec95a7063b6          3h      10
+  e716fb11-1064-4db7-9d76-06d19f4f6f67          5h       5
+  60586e47-ab9c-407d-85ca-1215084f3f41          8h       8
+  08635e52-dad5-4b78-8ab1-e55db53c0c18          8h       5
+  871ddcf5-0bba-4233-bf12-c776c496e314          7h      10
+  b57f17dc-db77-42bf-a7e9-8fec596ce498          7h       1
+  1d893de7-fbba-4c77-927b-e3076fe805d5          1h       8
+  1743e1b5-9dfd-4506-9905-98c3e054aee1          5h       8
+  48851915-eaf5-48ec-a20c-5074d7050c5f          8h       8
+  7d81e6ca-8f03-4c4a-9ec0-701f820c5655          7h       8
+
+  Depot #4  |  Budget:   97h  |  Used:   97h  |  Utilisation: 100.0%  |  Max Impact Score: 154
+  TaskID                                      Dur  Impact
+  ----------------------------------------  -----  ------
+  264e638f-1c7a-4d67-9f9c-53f3d1766d37          1h       5
+  4b6e22ee-b4ed-45a4-a6af-5294b0d69f37          1h       3
+  d6372f32-852b-46a9-8e8c-e730fecc3c22          5h       5
+  72a91abc-4ed7-492c-9e99-348e7437953b          5h       9
+  8a7ff5b1-335c-4a2f-96d8-09c4a362e781          6h      10
+  08000114-9506-463d-ba2e-3343ec4e2e89          6h       6
+  52635341-7c5f-475a-9839-4676f8fe5fd4          1h       5
+  9e08defa-7bb5-4a83-9e29-417165922894          6h       9
+  f92b0f39-35ec-47c3-a465-3e49c22185b6          2h       5
+  65c0d74a-82ef-4fcc-9d85-9b082bb85310          5h       7
+  68ee2f8d-4145-4472-bce9-1d0968a8092a          1h       1
+  8a294532-c7ee-4e19-803d-f98b7e73e8bc          8h       7
+  18c655b2-380d-4295-8905-863f0de32c8f          2h       9
+  436e87a6-2b5b-42b9-9c35-deaa2c8ef54e          2h       3
+  0a823f1b-03c3-4722-af40-e17a7b9ee0ff          2h       5
+  0bf780cb-1099-4f61-99bf-dec95a7063b6          3h      10
+  e716fb11-1064-4db7-9d76-06d19f4f6f67          5h       5
+  60586e47-ab9c-407d-85ca-1215084f3f41          8h       8
+  871ddcf5-0bba-4233-bf12-c776c496e314          7h      10
+  1d893de7-fbba-4c77-927b-e3076fe805d5          1h       8
+  1743e1b5-9dfd-4506-9905-98c3e054aee1          5h       8
+  48851915-eaf5-48ec-a20c-5074d7050c5f          8h       8
+  7d81e6ca-8f03-4c4a-9ec0-701f820c5655          7h       8
+
+  Depot #5  |  Budget:  164h  |  Used:  142h  |  Utilisation:  86.6%  |  Max Impact Score: 170
+  TaskID                                      Dur  Impact
+  ----------------------------------------  -----  ------
+  264e638f-1c7a-4d67-9f9c-53f3d1766d37          1h       5
+  73ce9dca-1536-4a7a-9f1e-c67083afad61          6h       2
+  4b6e22ee-b4ed-45a4-a6af-5294b0d69f37          1h       3
+  d6372f32-852b-46a9-8e8c-e730fecc3c22          5h       5
+  ec40b581-bdfc-43e0-a047-871fdafe8167          7h       3
+  fb1e3165-67c9-4e96-a5c3-2d20085d293b          6h       3
+  330065c0-3815-4e10-a18a-b93b117e30a8          5h       1
+  72a91abc-4ed7-492c-9e99-348e7437953b          5h       9
+  8a7ff5b1-335c-4a2f-96d8-09c4a362e781          6h      10
+  08000114-9506-463d-ba2e-3343ec4e2e89          6h       6
+  a1e0b8e6-1076-4a2f-b83b-5e6017900033          6h       1
+  52635341-7c5f-475a-9839-4676f8fe5fd4          1h       5
+  9e08defa-7bb5-4a83-9e29-417165922894          6h       9
+  f92b0f39-35ec-47c3-a465-3e49c22185b6          2h       5
+  65c0d74a-82ef-4fcc-9d85-9b082bb85310          5h       7
+  68ee2f8d-4145-4472-bce9-1d0968a8092a          1h       1
+  8a294532-c7ee-4e19-803d-f98b7e73e8bc          8h       7
+  18c655b2-380d-4295-8905-863f0de32c8f          2h       9
+  436e87a6-2b5b-42b9-9c35-deaa2c8ef54e          2h       3
+  18c655b2-380d-4295-8905-863f0de32c8f          2h       9
+  436e87a6-2b5b-42b9-9c35-deaa2c8ef54e          2h       3
+  0a823f1b-03c3-4722-af40-e17a7b9ee0ff          2h       5
+  0bf780cb-1099-4f61-99bf-dec95a7063b6          3h      10
+  e716fb11-1064-4db7-9d76-06d19f4f6f67          5h       5
+  60586e47-ab9c-407d-85ca-1215084f3f41          8h       8
+  08635e52-dad5-4b78-8ab1-e55db53c0c18          8h       5
+  871ddcf5-0bba-4233-bf12-c776c496e314          7h      10
+  b57f17dc-db77-42bf-a7e9-8fec596ce498          7h       1
+  1d893de7-fbba-4c77-927b-e3076fe805d5          1h       8
+  1743e1b5-9dfd-4506-9905-98c3e054aee1          5h       8
+  48851915-eaf5-48ec-a20c-5074d7050c5f          8h       8
+  18c655b2-380d-4295-8905-863f0de32c8f          2h       9
+  436e87a6-2b5b-42b9-9c35-deaa2c8ef54e          2h       3
+  0a823f1b-03c3-4722-af40-e17a7b9ee0ff          2h       5
+  0bf780cb-1099-4f61-99bf-dec95a7063b6          3h      10
+  e716fb11-1064-4db7-9d76-06d19f4f6f67          5h       5
+  60586e47-ab9c-407d-85ca-1215084f3f41          8h       8
+  08635e52-dad5-4b78-8ab1-e55db53c0c18          8h       5
+  871ddcf5-0bba-4233-bf12-c776c496e314          7h      10
+  b57f17dc-db77-42bf-a7e9-8fec596ce498          7h       1
+  18c655b2-380d-4295-8905-863f0de32c8f          2h       9
+  436e87a6-2b5b-42b9-9c35-deaa2c8ef54e          2h       3
+  0a823f1b-03c3-4722-af40-e17a7b9ee0ff          2h       5
+  0bf780cb-1099-4f61-99bf-dec95a7063b6          3h      10
+  e716fb11-1064-4db7-9d76-06d19f4f6f67          5h       5
+  60586e47-ab9c-407d-85ca-1215084f3f41          8h       8
+  08635e52-dad5-4b78-8ab1-e55db53c0c18          8h       5
+  871ddcf5-0bba-4233-bf12-c776c496e314          7h      10
+  18c655b2-380d-4295-8905-863f0de32c8f          2h       9
+  436e87a6-2b5b-42b9-9c35-deaa2c8ef54e          2h       3
+  0a823f1b-03c3-4722-af40-e17a7b9ee0ff          2h       5
+  0bf780cb-1099-4f61-99bf-dec95a7063b6          3h      10
+  e716fb11-1064-4db7-9d76-06d19f4f6f67          5h       5
+  60586e47-ab9c-407d-85ca-1215084f3f41          8h       8
+  18c655b2-380d-4295-8905-863f0de32c8f          2h       9
+  436e87a6-2b5b-42b9-9c35-deaa2c8ef54e          2h       3
+  0a823f1b-03c3-4722-af40-e17a7b9ee0ff          2h       5
+  0bf780cb-1099-4f61-99bf-dec95a7063b6          3h      10
+  e716fb11-1064-4db7-9d76-06d19f4f6f67          5h       5
+  18c655b2-380d-4295-8905-863f0de32c8f          2h       9
+  436e87a6-2b5b-42b9-9c35-deaa2c8ef54e          2h       3
+  0a823f1b-03c3-4722-af40-e17a7b9ee0ff          2h       5
+  0bf780cb-1099-4f61-99bf-dec95a7063b6          3h      10
+  436e87a6-2b5b-42b9-9c35-deaa2c8ef54e          2h       3
+  0a823f1b-03c3-4722-af40-e17a7b9ee0ff          2h       5
+  0a823f1b-03c3-4722-af40-e17a7b9ee0ff          2h       5
+  0bf780cb-1099-4f61-99bf-dec95a7063b6          3h      10
+  e716fb11-1064-4db7-9d76-06d19f4f6f67          5h       5
+  60586e47-ab9c-407d-85ca-1215084f3f41          8h       8
+  08635e52-dad5-4b78-8ab1-e55db53c0c18          8h       5
+  871ddcf5-0bba-4233-bf12-c776c496e314          7h      10
+  b57f17dc-db77-42bf-a7e9-8fec596ce498          7h       1
+  1d893de7-fbba-4c77-927b-e3076fe805d5          1h       8
+  1743e1b5-9dfd-4506-9905-98c3e054aee1          5h       8
+  48851915-eaf5-48ec-a20c-5074d7050c5f          8h       8
+  7d81e6ca-8f03-4c4a-9ec0-701f820c5655          7h       8
+
+==========================================================================
+  Summary
+==========================================================================
+  DepotID     Budget (h)  Used (h)   Tasks Selected    Max Impact
+  ----------  ----------  --------  ---------------  ------------
+  1                   60        60               17           117
+  2                  135       135               29           169
+  3                  188       142               30           170
+  4                   97        97               23           154
+  5                  164       142               30           170
+
+  +  Results saved to C:\Users\adars\Downloads\afford_backend\results.json
+  Optimisation complete.
